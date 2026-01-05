@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ic a:hover{
+    background-color: rgb(131, 130, 130);
+    color: brown;
+    border-radius: 5px;
+}
+.hv:hover{
+    background-color: rgb(186, 201, 201);
+}
+.banner img {
+  transition: 0.4s;
+}
+.banner:hover img {
+  transform: scale(1.1);
+}
+.bg{
+    background-color: antiquewhite;
+}
+.bg img{
+    width: 100%;
+    transition: 0.4s;
+}
+.bg:hover{
+     transform: scale(1.1);
+}
+.st{
+    color: goldenrod;
+}
+.card img {
+  height: 200px;   
+  width: 100%;
+  object-fit: cover; 
+}
+/* .cr img{
+    transition: 0.4s;
+}
+.cr:hover{
+    transform: scale(1.1);
+} */
+.Ga img{
+    transition: 0.4s;
+}
+.Ga:hover{
+    transform: scale(1.1);
+}
+.stf img{
+    transition: 0.4s;
+
+}
+ .stf:hover{
+    transform: scale(1.1);
+ }
+ .h:hover{
+    background-color: rgb(168, 216, 210);
+    border: solid;
+ }
+ 
